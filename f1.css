@@ -1,0 +1,18 @@
+
+body {margin: 0;padding: 0;}
+
+#grid{border: 2px dotted;}
+
+#mydiv{
+    border:2px solid;
+    background-color: cornflowerblue;
+    width: 50%;margin: auto auto;
+    }
+#exportArea{
+    border:2px solid;
+    background-color:yellowgreen;
+    width: 50%;margin: auto auto;
+    height: 100px;
+    overflow-y: scroll ;
+
+}
