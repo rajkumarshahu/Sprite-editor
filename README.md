@@ -8,3 +8,5 @@
 ### Raj Kumar Shahu (100933500)
 ### Pushpa Raj Dulal (101088315)
 
+## Heroku Deployment URL
+### https://gbc-sprite-editor.herokuapp.com/Editor.html
